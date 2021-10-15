@@ -1,4 +1,4 @@
-# Wiki <small>yang.bin</small>
+# Notes <small>leo.yang</small>
 
 > 
 [GitHub](https://github.com/yangb92)
