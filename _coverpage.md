@@ -1,5 +1,9 @@
+<img src="avatar.png" width="100px" height="100px">
+<br/>
+
 # Notes <small>Leo.yang</small>
 
+> One person knowledge notes
 - Java; Python; Linux; Kali; SQL; Plugs ...
 - Code & Program
 - Developer 
