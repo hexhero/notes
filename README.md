@@ -1,4 +1,4 @@
-# Wiki By Yang.bin
+# Notes By Yang.bin
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/book?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/book?logo=scaleway)
 
