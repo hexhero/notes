@@ -1,6 +1,5 @@
-* [首页](README.md)
+* [Profile](README.md)
 * [Python](note/python/index.md)
-* [工具](note/utils/index.md)
-
-
-
+* [Utils](note/utils/index.md)
+* [Git](note/git/index.md)
+* [Kali](note/kali/index.md)

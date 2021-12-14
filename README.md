@@ -1,6 +1,6 @@
 # Notes By Leo
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/book?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/book?logo=scaleway)
+![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/wiki?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/wiki?logo=scaleway)
 
 Local:  Xian,China
 
