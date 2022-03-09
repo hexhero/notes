@@ -3,3 +3,4 @@
 * [Tool Kit](note/tools/index.md)
 * [Git](note/git/index.md)
 * [Kali](note/kali/index.md)
+* [Sql](note/sql/index.md)
