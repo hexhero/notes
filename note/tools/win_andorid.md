@@ -35,3 +35,7 @@ adb install 你的APK文件完整路径
 ```
 
 这样就能使用 adb 命令安装 apk 文件到 Windows 11 安卓子系统 WSA 了。重点是开启开发者模式，获得正确 IP 地址以及正确安装 adb 命令。
+
+
+参考:
+* https://zhuanlan.zhihu.com/p/424959704
