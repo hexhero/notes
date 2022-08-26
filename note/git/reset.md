@@ -29,3 +29,13 @@ $ git reflog
 ```sh
 git reset 5e972cff
 ```
+
+## 覆盖分支
+
+例如：dev覆盖master分支
+
+```git
+git checkout master
+git reset --hard dev
+git push origin master --force
+```

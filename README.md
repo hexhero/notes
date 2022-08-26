@@ -1,4 +1,4 @@
-# Notes By Leo
+# Notes By Leo.Yang
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/wiki?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/wiki?logo=scaleway)
 
