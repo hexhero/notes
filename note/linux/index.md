@@ -1,6 +1,6 @@
 # Linux
 
-- [创建Root权限用户](#CREATEROOTUSER)
+- [创建Root权限用户](#create-root-user)
 
 
 ## CREATE ROOT USER
