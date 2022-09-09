@@ -4,3 +4,4 @@
 * [Git](note/git/index.md)
 * [Kali](note/kali/index.md)
 * [Sql](note/sql/index.md)
+* [Linux](note/linux/index.md)
