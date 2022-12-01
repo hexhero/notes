@@ -2,7 +2,7 @@
 
 - [创建Root权限用户](#create-root-user)
 - [SCP 传输文件](#SCP)
-- lsof -i:端口号
+- 查找端口 `lsof -i:端口号`
 
 ## CREATE ROOT USER
 
