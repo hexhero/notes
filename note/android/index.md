@@ -1,4 +1,5 @@
 # Android
 
-- [Android 逆向](note/android/decompile.md)
-- [WSA Windows 安卓子系统](note/android/wsa.md)
+- [Android APK 反编译](note/android/decompile.md)
+- [WSA Windows安卓子系统](note/android/wsa.md)
+- [微信小程序反编译](note/android/wx-decompile.md)
