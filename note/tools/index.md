@@ -7,3 +7,13 @@
 * [vercel 静态页面托管](https://vercel.com/) *从github获取hexo项目编译并发布，可自定义域名*
 * [PowerShell 美化](https://ohmyposh.dev/)
 * [Frp 内网穿透](https://github.com/fatedier/frp)
+* [qrencode 二维码制作](#qrencode)
+
+## qrencode
+
+安装
+
+在标准输出打印二维码
+```sh
+echo "https://getiot.tech" | qrencode -o - -t ANSI
+```
