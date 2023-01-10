@@ -1,8 +1,0 @@
-* [Profile](README.md)
-* [Python](note/python/index.md)
-* [Tools](note/tools/index.md)
-* [Git](note/git/index.md)
-* [Kali](note/kali/index.md)
-* [Sql](note/sql/index.md)
-* [Linux](note/linux/index.md)
-* [Android](note/android/index.md)

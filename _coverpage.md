@@ -1,7 +1,7 @@
 <img src="avatar.png" width="100px" height="100px">
 <br/>
 
-# Notes <small>Leo.yang</small>
+# Notes <small> By Leo</small>
 
 > One person knowledge notes
 - Java; Python; Linux; Kali; SQL; Plugs ...
@@ -10,4 +10,4 @@
 
 
 [GitHub](https://github.com/yangb92)
-[Get Started](#Notes-By-LeoY)
+[Get Started](/README.md)

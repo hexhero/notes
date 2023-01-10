@@ -1,8 +1,8 @@
 # Python
 
-- [venv 虚拟环境的使用](note/python/venv.md)
-- [Pyinstaller 打包应用](note/python/pyinstaller.md)
-- [Eel 使用html开发桌面程序](note/python/eel.md)
+- [venv 虚拟环境的使用](venv.md)
+- [Pyinstaller 打包应用](pyinstaller.md)
+- [Eel 使用html开发桌面程序](eel.md)
 - [OCR 图片文字提取](https://github.com/JaidedAI/EasyOCR)
 - [彩色日志输出](#彩色日志输出)
 - [发送Email](#发送email)
