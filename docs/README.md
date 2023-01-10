@@ -4,7 +4,7 @@
 
 !> 私人资料，请勿做它用
 
-## 杨斌
+## 杨斌 <small>*Leo*</small>
 
 - 位置：陕西，西安
 - Email： <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=o5aRkJObl5WbluPS0o3AzM4" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png"/></a>

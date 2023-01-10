@@ -1,7 +1,7 @@
 <img src="avatar.png" width="100px" height="100px">
 <br/>
 
-# Notes <small> By Leo</small>
+# Notes <small> by Leo</small>
 
 > One person knowledge notes
 - Java; Python; Linux; Kali; SQL; Plugs ...
@@ -9,5 +9,7 @@
 - Developer 
 
 
-[GitHub](https://github.com/yangb92)
 [Get Started](/README.md)
+[Blog](https://yangb92.github.io)
+[GitHub](https://github.com/yangb92)
+
