@@ -3,8 +3,8 @@
 
 # Notes <small> by Leo</small>
 
-> One person knowledge notes
-- Java; Python; Linux; Kali; SQL; Plugs ...
+> Leo.Y knowledge notes
+- Java,Python,Linux,Kali,DataBase,Plugs ...
 - Code & Program
 - Developer 
 
