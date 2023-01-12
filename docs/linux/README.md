@@ -2,6 +2,7 @@
 
 - [创建Root权限用户](#create-root-user)
 - [SCP 传输文件](#SCP)
+- [ipv6 和 ipv4 使用一个端口](#ipv6)
 - 查找端口 `lsof -i:端口号`
 
 ## CREATE ROOT USER
@@ -48,4 +49,14 @@ scp -r /home/space/music/ www.runoob.com:/home/root/others/
 ```
 scp root@www.runoob.com:/home/root/others/music /home/space/music/1.mp3 
 scp -r www.runoob.com:/home/root/others/ /home/space/music/
+```
+
+## IPV6
+
+ipv6 和 ipv4 使用同一个端口验证
+
+```sh
+python -m http.server -b [::] 9999
+
+python -m http.server -b 127.0.0.1 9999
 ```
