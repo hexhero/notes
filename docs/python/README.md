@@ -6,6 +6,7 @@
 - [OCR 图片文字提取](https://github.com/JaidedAI/EasyOCR)
 - [彩色日志输出](#彩色日志输出)
 - [发送Email](#发送email)
+- [AES 加密](aes.md)
 
 
 ## 彩色日志输出

@@ -1,10 +1,11 @@
 - [Profile](README.md)
 
 - [Python](python/README.md)
+    - [OCR 图片文字提取](https://github.com/JaidedAI/EasyOCR)
     - [venv 虚拟环境的使用](python/venv.md)
     - [Pyinstaller 打包应用](python/pyinstaller.md)
     - [Eel 使用html开发桌面程序](python/eel.md)
-    - [OCR 图片文字提取](https://github.com/JaidedAI/EasyOCR)
+    - [AES 加密](python/aes.md)
 
 - [Tools](tools/README.md)
     - [Docsisfy 文档网站生成器](https://docsify.js.org/#/zh-cn/)
