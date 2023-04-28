@@ -28,6 +28,7 @@
 - [DataBase](database/README.md)
 
 - [Linux](linux/README.md)
+    - [Shell](linux/shell.md)
 
 - [Android](android/README.md)
     - [Android APK 反编译](android/decompile.md)
