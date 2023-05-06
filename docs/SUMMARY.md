@@ -36,4 +36,6 @@
     - [微信小程序反编译](android/wx-decompile.md)
     - [adb 命令](android/adb.md)
 
-- [Java](java/README.md)    
+- [Java](java/README.md)
+
+- [常见疾病和常用药物](medicine/README.md)
