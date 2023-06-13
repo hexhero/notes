@@ -2,7 +2,7 @@
 
 [查看目录](SUMMARY.md)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/wiki?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/wiki?logo=scaleway)
+![GitHub last commit](https://img.shields.io/github/last-commit/hexhero/notes?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hexhero/notes?logo=scaleway)
 
 ## 杨斌 <small>Leo</small>
 
