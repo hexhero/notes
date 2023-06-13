@@ -1,8 +1,8 @@
 # Notes
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/wiki?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/wiki?logo=scaleway)
+[查看目录](SUMMARY.md)
 
-!> 私人资料，请勿做它用
+![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/wiki?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/wiki?logo=scaleway)
 
 ## 杨斌 <small>*Leo*</small>
 
