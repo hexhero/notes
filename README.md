@@ -1,6 +1,6 @@
 # Notes
 
-[查看目录](SUMMARY.md)
+[查看目录](doc/SUMMARY.md)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yangb92/wiki?logo=mastercard)   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yangb92/wiki?logo=scaleway)
 
