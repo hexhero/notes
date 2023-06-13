@@ -6,6 +6,7 @@
     - [Pyinstaller 打包应用](python/pyinstaller.md)
     - [Eel 使用html开发桌面程序](python/eel.md)
     - [AES 加密](python/aes.md)
+    - [PyQt5](python/pyqt5.md)
 
 - [Tools](tools/README.md)
     - [Docsisfy 文档网站生成器](https://docsify.js.org/#/zh-cn/)
